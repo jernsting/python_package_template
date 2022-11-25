@@ -1,5 +1,5 @@
-[![Python application](https://github.com/jernsting/python_package_template/actions/workflows/lindandtest.yml/badge.svg)](https://github.com/wwu-mmll/photonai_module_template/actions/workflows/lindandtest.yml)
-[![Coverage Status](https://coveralls.io/repos/github/jernsting/python_package_template/badge.svg?branch=master)](https://coveralls.io/github/wwu-mmll/photonai_module_template?branch=master)
+[![Python application](https://github.com/jernsting/python_package_template/actions/workflows/lindandtest.yml/badge.svg)](https://github.com/jernsting/python_package_template/actions/workflows/lindandtest.yml)
+[![Coverage Status](https://coveralls.io/repos/github/jernsting/python_package_template/badge.svg?branch=main)](https://coveralls.io/github/jernsting/python_package_template?branch=main)
 ![GitHub](https://img.shields.io/github/license/jernsting/python_package_template)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jernsting_python_package_template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jernsting_python_package_template)
 

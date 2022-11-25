@@ -1,8 +1,7 @@
-[![Python application](https://github.com/wwu-mmll/photonai_module_template/actions/workflows/lindandtest.yml/badge.svg)](https://github.com/wwu-mmll/photonai_module_template/actions/workflows/lindandtest.yml)
-[![Coverage Status](https://coveralls.io/repos/github/wwu-mmll/photonai_module_template/badge.svg?branch=master)](https://coveralls.io/github/wwu-mmll/photonai_module_template?branch=master)
-![GitHub](https://img.shields.io/github/license/wwu-mmll/photonai_module_template)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wwu-mmll_photonai_module_template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=wwu-mmll_photonai_module_template)
-# How to use this template
+[![Python application](https://github.com/jernsting/python_package_template/actions/workflows/lindandtest.yml/badge.svg)](https://github.com/jernsting/python_package_template/actions/workflows/lindandtest.yml)
+[![Coverage Status](https://coveralls.io/repos/github/jernsting/python_package_template/badge.svg?branch=master)](https://coveralls.io/github/jernsting/python_package_template?branch=master)
+![GitHub](https://img.shields.io/github/license/jernsting/python_package_template)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jernsting_python_package_template&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=jernsting_python_package_template)# How to use this template
 This repository is a quick start template for new photonai modules. To get started simply follow these steps:
 
 1. Klick "Use this template" button

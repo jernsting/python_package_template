@@ -1,7 +1,7 @@
 # Project information
 site_name: project_name
 repo_name: 'project_urlname'
-repo_url: 'https://github.com/wwu-mmll/project_name'
+repo_url: 'https://github.com/author_name/project_name'
 edit_uri: 'edit/master/docs'
 
 
